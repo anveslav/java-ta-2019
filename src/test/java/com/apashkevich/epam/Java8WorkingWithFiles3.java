@@ -124,4 +124,9 @@ public class Java8WorkingWithFiles3 {
         assertFalse(Files.exists(file1));
     }
 
+    @Test
+    public void newTest() throws IOException {
+
+    }
+
 }
